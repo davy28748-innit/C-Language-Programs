@@ -1,7 +1,7 @@
 /*
-Name:
-RegNo:
-Description:
+Name:Davy Kipkosgei Koech
+RegNo:PA106/G/28748/25
+Description: Water Bill Calculator
 */
 #include <stdio.h>
 
@@ -22,4 +22,5 @@ int main(){
 	printf("Total water bill: %.2f KES\n", bill);
 	
 	return 0;
+
 }
