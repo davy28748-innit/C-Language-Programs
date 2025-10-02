@@ -1,6 +1,6 @@
-/*Name:
-Registration No:
-Description:
+/*Name:Davy Kipkosgei Koech
+Registration No:PA106/g/28748/25
+Description:Exam Eligibility
 */
 #include <stdio.h>
 
@@ -19,4 +19,5 @@ int main(){
 		printf("Not eligible.\n");
 	}
 	return 0;
+
 }
