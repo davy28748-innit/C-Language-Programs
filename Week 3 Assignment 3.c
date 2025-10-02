@@ -1,7 +1,7 @@
 /*
-Name:
-RegNo:
-Description:
+Name:Davy Kipkosgei Koech
+RegNo:PA106/g/28748/25
+Description:Mobile Data Bundle Purchase
 */
 #include <stdio.h>
 
@@ -35,4 +35,5 @@ int main(){
 			
 	}
 	return 0;
+
 }
